@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Stripe Payment</string>
+    <string name="publishablekey">pk_test_SssTVJGZ2LmLK1UTluWBZI3I00yTnHv9DV</string>
+</resources>
